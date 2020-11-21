@@ -1,5 +1,5 @@
 <div align="center">
-<img src=" " align="center"/>
+<img src="https://github.com/VarunSharma117/VarunSharma117/blob/main/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
 ## Hi there, I'm Varun Sharma
