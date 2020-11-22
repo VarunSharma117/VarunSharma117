@@ -2,29 +2,30 @@
 <img src="https://github.com/VarunSharma117/VarunSharma117/blob/main/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
-## Hi there, I'm Varun Sharma
+# Hi there, I'm Varun Sharma
 [![LinkedIn Follow](https://img.shields.io/badge/Linkedin-connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=varun-vishwakarma-949b73182&trk=public_profile_top-card-primary-button-join-to-connect)
 [![Github Follow](https://img.shields.io/badge/Github-follow-blue?style=for-the-badge&logo=linkedin)](https://github.com/login?return_to=%2FVarunSharma117)
 
 ![](https://komarev.com/ghpvc/?username=VarunSharma117&color=47ccb3)
 
-
+<br />
 
 ## I'm a Student and Developer
+
 
 - ⚡ I’m currently learning Java and Android App Development.
 - 👯 I’m looking to collaborate on Android App project.
 - 💬 Ask me about Core Java
 - 📫 Email me: coolvarunsharma117@gmail.com
+<br />
 
+## Spotify Playing 🎧
 
-
-### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Varun Sharma Spotify Playing" width="350" />](https://open.spotify.com/playlist/4gV0OWt0PrHfRkC7I5Futz)
+<br />
 
+## Connect with me
 
-
-### Connect with me
 [<img align="left" alt="Varun Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Varun Sharma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Varun Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -34,7 +35,9 @@
 <BR />
 
 
-### Languages and Tools:
+
+## Languages and Tools:
+
 [<img align="left" alt="Java" width="26px" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="Python" width="26px" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />](https://www.python.org/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://en.wikipedia.org/wiki/HTML)
