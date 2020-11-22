@@ -8,11 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VarunSharma117&color=47ccb3)
 
-<br />
-
 ## I'm a Student and Developer
-
-
 - ⚡ I’m currently learning Java and Android App Development.
 - 👯 I’m looking to collaborate on Android App project.
 - 💬 Ask me about Core Java
@@ -23,6 +19,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Varun Sharma Spotify Playing" width="350" />](https://open.spotify.com/playlist/4gV0OWt0PrHfRkC7I5Futz)
 <br />
+<br />
 
 ## Connect with me
 
@@ -32,8 +29,7 @@
 <a href="https://dev.to/varunsharma117">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Varun Sharma's DEV Profile" height="30" width="30">
 </a>
-<BR />
-
+<br />
 
 
 ## Languages and Tools:
