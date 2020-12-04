@@ -21,7 +21,7 @@
 <br />
 <br />
 
-## Connect with me
+## Connect with me <img align="center" src="https://github.com/VarunSharma117/VarunSharma117/blob/main/Handshake.gif" height="33px" />
 
 [<img align="left" alt="Varun Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Varun Sharma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
