@@ -6,13 +6,13 @@
 [![LinkedIn Follow](https://img.shields.io/badge/Linkedin-connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=varun-vishwakarma-949b73182&trk=public_profile_top-card-primary-button-join-to-connect)
 [![Github Follow](https://img.shields.io/badge/Github-follow-blue?style=for-the-badge&logo=linkedin)](https://github.com/login?return_to=%2FVarunSharma117)
 
-![](https://komarev.com/ghpvc/?username=VarunSharma117&color=47ccb3)
+![](https://komarev.com/ghpvc/?username=VarunVishwakarma117&color=47ccb3)
 
 ## I'm a Student and Developer
 - ⚡ I’m currently learning Java and Android App Development.
 - 👯 I’m looking to collaborate on Android App project.
 - 💬 Ask me about Core Java
-- 📫 Email me: coolvarunsharma117@gmail.com
+- 📫 Email me: varun.vishwakarma117@gmail.com
 <br />
 
 ## Spotify Playing 🎧
@@ -49,8 +49,8 @@
 ---
  
 
-![Varun's github stats](https://github-readme-stats.vercel.app/api?username=VarunSharma117&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunSharma117&layout=compact&theme=radical)
+![Varun's github stats](https://github-readme-stats.vercel.app/api?username=VarunVishwakarma117&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunVishwakarma117&layout=compact&theme=radical)
 </details>
 
 [twitter]: https://twitter.com/VarunSh80960288
